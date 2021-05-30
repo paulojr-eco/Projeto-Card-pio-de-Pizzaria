@@ -1,2 +1,2 @@
-# Projeto-Card-pio-de-Pizzaria
+# Projeto-Cardapio-Pizzas
 Durante a realização do Curso de Javascript da B7Web desenvolvi tal projeto no intuito de simular um cardápio online para compras pizzas.
